@@ -1,0 +1,2 @@
+# Right_open_accordion_component
+Assignment- Open_Accordion_Components to Right
